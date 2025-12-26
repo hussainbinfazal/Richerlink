@@ -28,6 +28,16 @@ You can install this firmware into the router using the router's web interface:
 
 ⚠️ **Important**: Flashing firmware carries risk. Ensure you have the correct firmware file for your specific router model to avoid bricking your device.
 
+## Command Line Access
+
+To access the firmware upgrade page directly:
+
+```bash
+# Open your web browser and navigate to:
+http://192.168.1.1/upgrade.asp
+# Replace 192.168.1.1 with your router's actual IP address
+```
+
 ## Support
 
 For issues or questions regarding this firmware, please refer to the documentation or community support channels. 
