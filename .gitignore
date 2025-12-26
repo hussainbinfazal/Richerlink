@@ -1,0 +1,31 @@
+# Build artifacts
+*.bin
+*.img
+*.hex
+*.elf
+*.o
+*.a
+build/
+dist/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Configuration files with sensitive data
+config.local
+*.key
+*.pem
